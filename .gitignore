@@ -11,6 +11,12 @@ autom4te.cache/
 tarballs/
 test-results/
 
+bin/*
+obj/*
+MvcArticle.db
+MvcArticle.db-shm
+MvcArticle.db-wal
+
 # Mac bundle stuff
 *.dmg
 *.app
